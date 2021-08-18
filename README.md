@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/er0hrt09rgy1njmb?svg=true)](https://ci.appveyor.com/project/kononova-daria/hw-ajs-5-2-2)
